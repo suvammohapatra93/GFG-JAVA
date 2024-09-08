@@ -20,7 +20,7 @@ Constraints:
 
 import java.util.Scanner;
 
-public class Minimum_Jumps {
+public class Largest_Subarray_With_0_Sum {
     public static int minJumps(int[] arr) {
         int n = arr.length;
 
